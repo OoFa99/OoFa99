@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on using different classification algorithms on numerical data.
 - 🌱 I’m currently learning Inferential Statistics, Data Visualisation, Feature Engineering.
 - 🤔 I’m looking for help with getting money to buy a new laptop
+- ⚡ Fun fact: my birth day is 9/9/1999
 - 📫 Where to find me:-<p align="left">
   <a href="mailto:youssouf99amr@gmail.com"><img src="https://img.shields.io/badge/-youssouf99amr@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/youssouf-elgammal/"><img src="https://img.shields.io/badge/-Youssouf%20ElGammal-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/Joe_ElGammal"><img src="https://img.shields.io/badge/-@Joe_ElGammal-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-- ⚡ Fun fact: my birth day is 9/9/1999
 
 ## Topics I'm intrested in:
 
