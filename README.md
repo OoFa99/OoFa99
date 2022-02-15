@@ -1,10 +1,11 @@
+<p align="center"> 
+  <h2 align="center">Visitors count</h2>
+</p>
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/OoFa99/count.svg" />
+</p>
+
 ## Hi there 👋
-
-<!--
-**OoFa99/OoFa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on using different classification algorithms on numerical data.
 - 🌱 I’m currently learning Inferential Statistics, Data Visualisation, Feature Engineering.
@@ -36,7 +37,13 @@ Here are some ideas to get you started:
 
 ## My Stats:
 
-![youssouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=OoFa99&count_private=true&show_icons=true&theme=radical)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OoFa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OoFa99&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/><br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OoFa99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="OoFa99" height="192px"/>
+  <br/>
+<br/>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
