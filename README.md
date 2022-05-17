@@ -32,6 +32,7 @@
 
 
 <br>
+<!--
 <br>
 <br>
 
@@ -44,7 +45,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OoFa99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="OoFa99" height="192px"/>
   <br/>
 <br/>
-<!--
+
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 
