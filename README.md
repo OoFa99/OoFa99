@@ -8,7 +8,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on using different classification algorithms on numerical data.
-- 🌱 I’m currently learning Inferential Statistics, Data Visualisation, Feature Engineering.
+- 🌱 I’m currently learning Data Visualisation and Feature Engineering.
 - 🤔 I’m looking for help with getting money to buy a new laptop
 - ⚡ Fun fact: my birth day is 9/9/1999
 - 📫 Where to find me:-<p align="left">
