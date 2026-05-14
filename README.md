@@ -1,57 +1,40 @@
-<p align="center"> 
-  <h2 align="center">Visitors count</h2>
-</p>
-<p align = "center">
-  <img src="https://profile-counter.glitch.me/OoFa99/count.svg" />
-</p>
+# Hi, I'm Youssouf 👋
 
-## Hi there 👋
+ML Engineer focused on building practical AI systems — from production pipelines to intelligent agents.
 
-- 🔭 I’m currently working on increasing my understanding to ML Mathematics.
-- 🌱 Currently learning some Deep Learning concepts along with ML OPS.
-- 🤔 I’m looking for suggestions for ML and DL oriented projects.
-- ⚡ Fun fact: my birth day is 9/9/1999
-- 📫 Where to find me:-<p align="left">
-  <a href="mailto:youssouf99amr@gmail.com"><img src="https://img.shields.io/badge/-youssouf99amr@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/youssouf-elgammal/"><img src="https://img.shields.io/badge/-Youssouf%20ElGammal-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Joe_ElGammal"><img src="https://img.shields.io/badge/-@Joe_ElGammal-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+---
 
-## Tools I'm intrested in && Learning
+## What I work on
 
-<br>
+- **ML Engineering** — end-to-end pipelines, feature engineering, model evaluation, MLOps
+- **AI Systems** — LLM-powered agents, RAG pipelines, tool-use workflows
+- **Automation** — content pipelines, API integrations, backend services (FastAPI, Python)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23FA0F00.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-<br>
-<br>
+## Currently learning
 
-## My Stats:
+Working through a structured roadmap covering:
 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OoFa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OoFa99&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/><br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OoFa99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="OoFa99" height="192px"/>
-  <br/>
-<br/>
-<!--
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-<br>
+- ML & DL depth (stats, optimization, model internals)
+- LLMs, fine-tuning, and retrieval systems
+- ML systems design and production deployment
 
+---
 
-###  &nbsp;Where To Find Me:
+## Stack
 
-<p align="left">
-  <a href="mailto:youssouf99amr@gmail.com"><img src="https://img.shields.io/badge/-youssouf99amr@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/Joe_ElGammal"><img src="https://img.shields.io/badge/-@Joe_ElGammal-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/youssouf-elgammal/"><img src="https://img.shields.io/badge/-Youssouf%20ElGammal-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## Get in touch
+
+Open to ML engineering conversations, consulting, or collaboration.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssouf-elgammal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youssouf99amr@gmail.com)
